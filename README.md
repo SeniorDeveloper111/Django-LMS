@@ -7,7 +7,7 @@ After ten years of use, we are looking to replace our old intranet here at ID (w
 
 It aims to be a simple system. Starting with a springboard interface that is easily customizable from Django's admin. It will include a few modules by default: classes, people, news & alerts, admin, help, and knowledge base.
 
-If you're interested in helping, please drop me a line at cezar@id.iit.edu
+If you're interested in helping, please drop me a line at talenteddeveloper424@gmail.com
 
 Requirements
 ------------
